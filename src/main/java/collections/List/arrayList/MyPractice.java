@@ -1,4 +1,4 @@
-package collections.List.ch1;
+package collections.List.arrayList;
 
 import java.util.Arrays;
 

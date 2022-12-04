@@ -1,4 +1,4 @@
-package collections.List.ch1;
+package collections.List.arrayList;
 
 public interface Array_vs_List {
     /**
